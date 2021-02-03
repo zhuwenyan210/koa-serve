@@ -1,0 +1,25 @@
+[{
+    "value": 10,
+    "name": "IDS"
+},
+{
+    "value": 5,
+    "name": "VPN"
+},
+{
+    "value": 15,
+    "name": "交换机"
+},
+{
+    "value": 25,
+    "name": "防火墙"
+},
+{
+    "value": 20,
+    "name": "WAF"
+},
+{
+    "value": 35,
+    "name": "堡垒机"
+}
+]
